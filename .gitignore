@@ -148,3 +148,6 @@ dmypy.json
 # папки со статикой и медиа
 media/
 yatube_api/posts/static/
+
+yatube_api/api/requests.http
+yatube_api/.isort.cfg
