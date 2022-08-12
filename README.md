@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ```
 Выполните миграции:
 ```
-python3 manage.py migrate
+python manage.py migrate
 ```
 Запустите проект:
 ```
-python3 manage.py runserver
+python manage.py runserver
 ```
 Документация к API в формате ReDoc доступна по адресу http://127.0.0.1:8000/redoc/ после запуска проекта
 
